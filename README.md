@@ -15,7 +15,7 @@ This is a small demo that shows how to scale them into a Direct2D render target,
 
 ## Main Code
 
-- ```vba
+```vba
   Private Enum SvgUnit
     svgUnitPixel
     svgUnitMm
