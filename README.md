@@ -13,7 +13,7 @@ This is a small demo that shows how to scale them into a Direct2D render target,
 - Windows 10+
 - (IDE only) Windows Development Library for twinBASIC (WinDevLib) v9.1.595+
 
-- ## Main Code
+## Main Code
 
 - ```vba
   Private Enum SvgUnit
