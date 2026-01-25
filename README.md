@@ -11,7 +11,7 @@ This is a small demo that shows how to scale them into a Direct2D render target,
 
 ## Requirements:
 - Windows 10+
-- (IDE only) Windows Development Library for twinBASIC (WinDevLib) v9.1.595+
+- (IDE only) Windows Development Library for twinBASIC (WinDevLib) v9.2.648+
 
 ## Main Code
 
