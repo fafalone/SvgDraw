@@ -58,7 +58,7 @@ End Enum
     Dim sizesvg As D2D1_SIZE_F
     sizesvg.width = rc.Right
     sizesvg.Height = rc.Bottom
-    dc.CreateSvgDocument(svgStream, PointFToLongLong(sizesvg.width, sizesvg.Height), svg)
+    dc.CreateSvgDocument(svgStream, sizesvg, svg)
     If (cx > 0) And (cy > 0) Then
         'Scale
         Dim root As ID2D1SvgElement
